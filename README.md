@@ -11,6 +11,12 @@ For this dataset we are going to use the mean number of rooms to predict the mea
 
 We plot the points without the regression. 
 
-# Image. 
+![Linear1](https://user-images.githubusercontent.com/63415652/101593936-75e97f80-39b6-11eb-9ce7-127fb1a48056.PNG)
 
+Now using
 
+![formula](https://user-images.githubusercontent.com/63415652/101594040-a6c9b480-39b6-11eb-98c7-1fafaf865fd9.PNG)
+
+We obtain the regression line estimated by the least squares
+
+![Linear2](https://user-images.githubusercontent.com/63415652/101594309-13dd4a00-39b7-11eb-9619-1bcde795854d.PNG) 
