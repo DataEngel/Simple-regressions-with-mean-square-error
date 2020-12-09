@@ -19,4 +19,4 @@ Now using
 
 We obtain the regression line estimated by the least squares
 
-![Linear2](https://user-images.githubusercontent.com/63415652/101594309-13dd4a00-39b7-11eb-9619-1bcde795854d.PNG) 
+![Linear2](https://user-images.githubusercontent.com/63415652/101684256-bf27e680-3a2b-11eb-8ca2-d4557bd0e1e4.PNG)
